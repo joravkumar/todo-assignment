@@ -2,7 +2,7 @@
 
 ### Assignment: Todo Application
 
-You are building the **Todo application** with the technology uses **React.js, Node.js & MongoDB**.
+You are building the **Todo application** with the technologies **React.js, Node.js & MongoDB**.
 
 1. New todo can be added and removed just like as attached gif.
 2. Completion and removal of todo should be on gestures (click and swipe).
